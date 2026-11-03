@@ -1,21 +1,39 @@
 # ✈️ Airline Tycoon Simulator
 
-Welcome to **Airline Tycoon Simulator**, a Python-based airline management game where you build your own airline, purchase aircraft, create routes, and manage your company's finances.
+Welcome to **Airline Tycoon Simulator**, a Python-based airline management game where you build and manage your own airline!
 
-Start with your available money and grow your airline into a successful aviation business!
+Start with your initial money, purchase aircraft, create routes between airports, and operate flights to earn profits. Your goal is to expand your airline, manage expenses, and become a successful airline owner.
 
-## 🎮 Features
+## 🎮 About the Game
 
-- ✈️ **Aircraft Shop** – Purchase different types of aircraft.
-- 🌍 **Airport System** – Fly between airports around the world.
-- 🛫 **Route Management** – Create and manage airline routes.
-- 💰 **Financial Management** – Monitor your money, expenses, and flight profits.
-- 🧑‍✈️ **Flight Operations** – Operate flights and earn money from passengers.
-- 📊 **Airline Management** – Make decisions to grow your airline.
+In Airline Tycoon Simulator, you are the owner of an airline company.
+
+You have to make decisions about purchasing aircraft, choosing destinations, managing routes, and operating flights. Every flight earns money from passengers but also costs money for fuel, crew, and airport fees.
+
+Your challenge is to manage your finances carefully while expanding your airline.
+
+## 🕹️ How to Play
+
+1. **Start your airline:** Enter your player and airline information when starting the game.
+2. **Buy aircraft:** Visit the aircraft shop and purchase planes using your available money.
+3. **Create routes:** Connect airports to establish routes for your airline.
+4. **Operate flights:** Choose your available flights and transport passengers to earn revenue.
+5. **Manage finances:** Check your money, flight earnings, and expenses.
+6. **Expand your airline:** Use your profits to purchase more aircraft and create additional routes.
+
+The objective is to earn money, manage your airline wisely, and grow your aviation business.
+
+## ✈️ Features
+
+- Aircraft purchasing system
+- Airport and route management
+- Flight operations
+- Passenger revenue
+- Fuel, crew, and airport expenses
+- Airline financial management
+- Menu-based gameplay
 
 ## 🌍 Available Airports
-
-The game currently includes these airports:
 
 | Airport | Code |
 |---|---|
@@ -27,8 +45,6 @@ The game currently includes these airports:
 
 ## 🛩️ Aircraft Shop
 
-Purchase aircraft using your airline's money.
-
 | Aircraft | Price |
 |---|---:|
 | Used Turboprop | $100,000 |
@@ -36,46 +52,37 @@ Purchase aircraft using your airline's money.
 | Used Narrow-body Jet | $1,000,000 |
 | New Private Jet | $5,000,000 |
 
-## 💵 Flight Operations
+## 💰 Flight Operations
 
-Operate flights to transport passengers and earn revenue.
+Flights generate revenue from passengers.
 
-Flight operations include:
+Operating flights also involves expenses:
 
-- Passenger revenue
-- Fuel expenses
-- Crew expenses
+- Fuel costs
+- Crew costs
 - Airport fees
-- Flight profit or loss
 
-Your goal is to manage your expenses and earn enough money to expand your airline.
+Your flight profit depends on the revenue earned and the expenses paid.
 
-## 🚀 Getting Started
+## 🚀 Installation and Running
 
 ### Requirements
 
 - Python 3
 - Visual Studio Code or another Python editor
 
-### Installation
+### How to Run
 
 1. Download or clone this repository.
 2. Open the project folder in Visual Studio Code.
-3. Make sure Python is installed.
-4. Open the terminal.
-5. Run the game using:
+3. Open the terminal.
+4. Run the following command:
 
 ```bash
 python tycoonmain.py
 ```
 
-## 🎯 Objective
-
-Build your own airline from the ground up.
-
-Purchase aircraft, establish routes, operate flights, earn money, and expand your airline.
-
-**Can you build a successful airline empire?**
+5. Follow the instructions in the game menu to start playing.
 
 ## 🛠️ Built With
 
@@ -90,8 +97,10 @@ Created as a beginner game development project.
 
 Currently in development.
 
-New features, improvements, and gameplay mechanics may be added in future updates.
+More features and improvements may be added in future updates.
 
 ---
 
-**Thanks for checking out Airline Tycoon Simulator!** ✈️
+**Thanks for playing Airline Tycoon Simulator!** ✈️
+
+Build your airline. Operate your flights. Expand your empire.
