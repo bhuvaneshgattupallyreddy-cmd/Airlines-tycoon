@@ -24,24 +24,7 @@ Start with **$10,000,000**, purchase aircraft, create routes between airports, a
 - Flight revenue and expenses
 - Airline financial management
 
-## 🚀 How to Run
 
-### Requirements
-- Python 3
-- A terminal or Visual Studio Code
-
-### Steps
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open the terminal in the project folder.
-4. Run the game:
-
-```bash
-python main.py.py
-```
-
-5. Follow the instructions in the game menu.
 
 ## 🛠️ Built With
 
